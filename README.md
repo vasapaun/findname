@@ -6,7 +6,7 @@ Usage:
 
 Options:
     
-    -i[nverse]  - Find all filenames mismatching the given regex
+    -i[nverse]  - Find all filenames MISmatching the given regex
 
     -d[elete]   - Delete(unlink) all filenames found (You will be prompted for confirmation regarding each file found)
 
