@@ -1,3 +1,4 @@
+# findname
 Program that finds filenames matching a given regex in a specified directory.
 
 Usage:
